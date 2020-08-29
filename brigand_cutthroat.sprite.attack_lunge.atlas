@@ -1,0 +1,20 @@
+
+brigand_cutthroat.sprite.attack_lunge.png
+size: 1403,1105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_lunge
+  rotate: false
+  xy: 2, 2
+  size: 1335, 1101
+  orig: 1335, 1101
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1339, 817
+  size: 286, 62
+  orig: 286, 62
+  offset: 0, 0
+  index: -1
